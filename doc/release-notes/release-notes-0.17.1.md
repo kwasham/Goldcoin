@@ -100,7 +100,7 @@ confusion.
 ### RPC and other APIs
 - #14417 `fb9ad04` Fix listreceivedbyaddress not taking address as a string (etscrivner)
 - #14596 `de5e48a` Bugfix: RPC: Add `address_type` named param for createmultisig (luke-jr)
-- #14618 `9666dba` Make HTTP RPC debug logging more informative (practicalswift)
+- #14618 `9636dba` Make HTTP RPC debug logging more informative (practicalswift)
 - #14197 `7bee414` [psbt] Convert non-witness UTXOs to witness if witness sig created (achow101)
 - #14377 `a3fe125` Check that a separator is found for psbt inputs, outputs, and global map (achow101)
 - #14356 `7a590d8` Fix converttopsbt permitsigdata arg, add basic test (instagibbs)
